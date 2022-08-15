@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "336028684919",
+    "project_id": "sportsman-c8ec7",
+    "storage_bucket": "sportsman-c8ec7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336028684919:android:d1c7c04cd69c8c6eb32c72",
+        "android_client_info": {
+          "package_name": "com.sportsman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336028684919-3d8j8d01898f25l1rgd2djb42euvg075.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sportsman",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "336028684919-16tp1enhc4m5gfvs7hj9ij0bcjshc0gh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASvRviUo0f_qMbo50v5e20CKS3txZPrvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336028684919-16tp1enhc4m5gfvs7hj9ij0bcjshc0gh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
